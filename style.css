@@ -1,1 +1,30 @@
 /*Personal Web Page Style Sheet */
+body {
+  margin: 60px;
+  background-color: #B5D3E7;
+font-family: Verdana;}
+h1 {
+  font-size: 50px;
+text-align: center;}
+h2 {
+  font-size: 20px}
+.column {
+  float: left;
+  margin-right: -450px;
+}
+ul {line-height: 60px}
+.AK {
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+a:link{
+  color: gray;
+}
+a:visited{
+  color: black;
+}
+a:hover{
+  background-color: white;
+}
